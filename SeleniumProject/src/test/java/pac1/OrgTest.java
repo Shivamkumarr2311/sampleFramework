@@ -12,7 +12,12 @@ public class OrgTest {
 	
 	@Test
 	public void modifyOrgTest() {
-		System.out.println("execute modifyOrgTe st");
+		System.out.println("execute modifyOrgTest");
+	}
+	
+	@Test
+	public void deleteOrgTest() {
+		System.out.println("execute modifyOrgTest");
 	}
 
 }
